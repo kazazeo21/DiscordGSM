@@ -1,1 +1,9 @@
-[]
+[{
+        "type": "SourceQuery",
+        "game": "GTA SA MULTIPLAYER",
+        "addr": "20.198.168.14",
+        "port": 7777,
+        "channel": 769479885873348669,
+        "color": "#ffff00"
+    },
+]
